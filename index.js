@@ -38,7 +38,6 @@ function Validation() {
             length.classList.add('invalid');
         }
     })
-        
 }  
 
 const validation = new Validation();
